@@ -12,4 +12,4 @@ and data driven decision making.
 
 We are seeking to provide trainings to investigators, staff, medical professionals, and graduate students regarding potential risks, opportunities and challenges for ethical and responsible AI in healthcare.
 
-These trainings are supported by NSF Expand AI CAP award and RCMI supplement award 5U54MD007586-37S3 
+These trainings are supported by NSF Expand AI CAP award #2334391 and RCMI supplement award 5U54MD007586-37S3 
